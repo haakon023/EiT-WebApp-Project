@@ -1,38 +1,56 @@
-.App {
+.NavbarList{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 10%;
+  background-color: #282c34;
+  height: 100%;
+  overflow: auto;
+  position: fixed;
+}
+
+.NavbarList a:first-child{
+  margin-top: 10%;
+}
+
+.NavbarList a{
+  display: block;
+  text-decoration: none;
+  pad: 8px, 16px;
+  color: azure;
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.NavbarList a:hover{
+  background-color: #282c10;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.Body{
+  width: 90%;
+  margin-left: 10%;
+  height: 95vh;
+  margin-top: 0;
+  
+}
+.Header{
+  margin: 0;
+  padding: 0;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.Page{
+  margin: 0;
+  padding: 0;
+  background-color: ghostwhite;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  height: 100%;
 }
 
-.App-link {
-  color: #61dafb;
+.HeaderText{
+  text-align: center;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+html{
+  height: 100%;
+}
+.leaflet-container{
+  width: 100%;
+  height: 100vh;
 }

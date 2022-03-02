@@ -1,0 +1,40 @@
+[
+    {
+        "id": 0,
+        "locationId": "temp",
+        "name": "bakkelandet",
+        "address": {
+            "street": "충남 당진시 송악읍 송악로 63",
+            "city": "당진",
+            "state": "48",
+            "zip": null,
+            "countryId": 137,
+            "country": "South Korea",
+            "regionId": 102,
+            "region": "Asia Pacific"
+        },
+        "gps": {
+            "latitude": 63.4270,
+            "longitude": 10.4041
+        }
+    },
+    {
+        "id": 1,
+        "locationId": "temp",
+        "name": "bakkelandet",
+        "address": {
+            "street": "충남 당진시 송악읍 송악로 63",
+            "city": "당진",
+            "state": "48",
+            "zip": null,
+            "countryId": 137,
+            "country": "South Korea",
+            "regionId": 102,
+            "region": "Asia Pacific"
+        },
+        "gps": {
+            "latitude": 63.4201,
+            "longitude": 10.4041
+        }
+    }
+]
