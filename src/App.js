@@ -1,15 +1,15 @@
 import HeaderComponent from './components/HeaderComponent';
 import './App.css';
-import InformationComponent from './components/InformationComponent';
+import Main from './Main';
 
 function App() {
   return (
-    <div className='app'>
-      <HeaderComponent></HeaderComponent>
-      <InformationComponent></InformationComponent>
+    <div className="App">
+      <HeaderComponent/>
+      <div style={{paddingLeft:"10%"}}>
+        <Main />
+      </div>
     </div>
   );
-    
 }
-
 export default App;

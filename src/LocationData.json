@@ -36,5 +36,43 @@
             "latitude": 63.4201,
             "longitude": 10.4041
         }
+    },
+    {
+        "id": 1,
+        "locationId": "temp",
+        "name": "Dora",
+        "address": {
+            "street": "충남 당진시 송악읍 송악로 63",
+            "city": "당진",
+            "state": "48",
+            "zip": null,
+            "countryId": 137,
+            "country": "South Korea",
+            "regionId": 102,
+            "region": "Asia Pacific"
+        },
+        "gps": {
+            "latitude": 63.43890659271715,
+            "longitude": 10.420774797671568
+        }
+    },
+    {
+        "id": 7,
+        "locationId": "temp",
+        "name": "Nidaros",
+        "address": {
+            "street": "충남 당진시 송악읍 송악로 63",
+            "city": "당진",
+            "state": "48",
+            "zip": null,
+            "countryId": 137,
+            "country": "South Korea",
+            "regionId": 102,
+            "region": "Asia Pacific"
+        },
+        "gps": {
+            "latitude": 63.426754, 
+            "longitude": 10.395188
+        }
     }
 ]
