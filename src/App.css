@@ -13,6 +13,19 @@
   margin-top: 10%;
 }
 
+html{
+  margin: 0;
+}
+
+head{
+  margin: 0;
+  padding: 0;
+}
+
+.app{
+  margin:0;
+}
+
 .NavbarList a{
   display: block;
   text-decoration: none;
@@ -27,7 +40,7 @@
 .Body{
   width: 100%;
   /* margin-left: 10%; */
-  height: 95vh;
+  height: 100%;
   margin-top: 0;
   
 }

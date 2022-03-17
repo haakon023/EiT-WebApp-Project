@@ -7,9 +7,9 @@ class HeaderComponent extends React.Component
     render(){
         return <div className="Header">
             <ul className="NavbarList">
-                <Link to="/"><li><a href="index">Map</a></li></Link>
-                <Link to="/information"><li><a href="Information">Informasjon</a></li></Link>
-                <Link to="/contact"><li><a href="Contact">Kontakt</a></li></Link>
+                <Link to="/"><li>Map</li></Link>
+                <Link to="/information"><li>Information</li></Link>
+                <Link to="/contact"><li>Contact</li></Link>
             </ul>
         </div>
     }
