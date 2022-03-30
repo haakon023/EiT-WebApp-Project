@@ -67,3 +67,8 @@ html{
   width: 100%;
   height: 100vh;
 }
+
+.information-text{
+  margin: 5%;
+  font-size: large;
+}
