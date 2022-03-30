@@ -1,0 +1,60 @@
+[
+    {
+        "id" : 0,
+        "caption" : "tukthuset",
+        "image" : "http://localhost:3000/images/tukthuset.jpg",
+        "imageText" : "asdasd",
+        "Imagetitle" : "Tukthuset"
+    },
+    {
+        "id" : 1,
+        "caption" : "Gamle tukthuset",
+        "image" : "http://localhost:3000/images/tukthusetGammelt.jpg",
+        "imageText" : "asdasd"
+    },
+    {
+        "id" : 2,
+        "caption" : "Studenter Hjemmet",
+        "image" : "http://localhost:3000/images/StudenterHjemmetElgsaeter.jpg",
+        "imageText" : "asdasd"
+    },
+    {
+        "id" : 3,
+        "caption" : "Studenter Hjemmet",
+        "image" : "http://localhost:3000/images/StudenterHjemmetElgsaeterGammelt.jpg",
+        "imageText" : "asdasd"
+    },
+    {
+        "id" : 4,
+        "caption" : "Gamle Bybro",
+        "image" : "http://localhost:3000/images/GamleByBro.jpg",
+        "imageText" : "asdasd"
+    },
+    {
+        "id" : 5,
+        "caption" : "Gamle Bybro",
+        "image" : "http://localhost:3000/images/GamleByBroGammel.jpg",
+        "imageText" : "asdasd"
+    },
+    {
+        "id" : 6,
+        "caption" : "Sverre Siggurson",
+        "image" : "http://localhost:3000/images/SverreSiggurson.jpg",
+        "imageText" : "Den er laget av Sivert Donali, og satt opp i parken i 1983. Sverre Siggurdsson ble fød i omkring 1150 og døde i 1202 Sverre Siggurdsson ble enekonge i Norge i 1184, da han med birkebeinerne overvant Kong Magnus Erlingsson. Sverre ble også i sin kongsperiode ekskommunisert under konflikt med kriken og erkebiskopen.",
+        "imageTitle" : "Sverre Siggurson"
+    },
+    {
+        "id" : 7,
+        "caption" : "Frihetsgudinnen",
+        "image" : "http://localhost:3000/images/Frihetsgudinnen.jpg",
+        "imageTitle" : "Frihetsgudinnen",
+        "imageText" : "Statuen er av frihetsgudinnen og laget av Jens Munthe Svendsen. Den ble satt opp i 1906, i forbindelsen av kroningen av Kong Haakon og Dronning Maud i Nidarosdomen i Trondheim, Kong Haakon 7. var Norges første konge i moderne tid etter unionsoppløsningen med Sverige i 1905. Han var døde i 1957."
+    },
+    {
+        "id" : 8,
+        "caption" : "Olav Tryggvasson",
+        "image" : "http://localhost:3000/images/OlavTryggvasson.jpg",
+        "imageText" : "Statuen er av Olav Tryggvasson og laget av Brynjulf Bergslien. Statuen oppreist til Trondheims 900 – årsjubileum i 1897 og revet da jubileet var over, på grunn av ikke holdbare materialer. Olav Tryggvasson ble født i 968 og døde i år 1000 Han var kjent som en av kristningskongene og grunnleggeren av Nidaros (Trondheim)",
+        "imageTitle" : "Olav Tryggvassson"
+    }
+]
