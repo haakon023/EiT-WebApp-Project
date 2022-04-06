@@ -72,3 +72,8 @@ html{
   margin: 5%;
   font-size: large;
 }
+
+.image-content{
+  width: 80%;
+  margin: auto;
+}

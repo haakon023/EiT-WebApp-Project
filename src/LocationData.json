@@ -1,78 +1,71 @@
 [
     {
         "id": 0,
-        "locationId": "temp",
-        "name": "bakkelandet",
+        "locationId": "SverreSiggurdson",
+        "name": "Sverre Sigurdson",
         "address": {
-            "street": "충남 당진시 송악읍 송악로 63",
-            "city": "당진",
-            "state": "48",
-            "zip": null,
-            "countryId": 137,
-            "country": "South Korea",
-            "regionId": 102,
-            "region": "Asia Pacific"
+            "street": "Ila Veien",
+            "city": "Trondheim"
         },
         "gps": {
-            "latitude": 63.4270,
-            "longitude": 10.4041
-        }
+            "latitude": 63.42975851474528, 
+            "longitude": 10.372921799121732
+        },
+        "images" : [
+            6,
+            7,
+            8
+        ]
     },
     {
         "id": 1,
-        "locationId": "temp",
-        "name": "bakkelandet",
+        "locationId": "GamleByBro",
+        "name": "Gamle Bybro",
         "address": {
-            "street": "충남 당진시 송악읍 송악로 63",
-            "city": "당진",
-            "state": "48",
-            "zip": null,
-            "countryId": 137,
-            "country": "South Korea",
-            "regionId": 102,
-            "region": "Asia Pacific"
+            "street": "",
+            "city": "Trondheim"
         },
         "gps": {
-            "latitude": 63.4201,
-            "longitude": 10.4041
-        }
+            "latitude": 63.42828295556387, 
+            "longitude": 10.401570062371732
+        },
+        "images" : [
+            4,
+            5
+        ]
     },
     {
-        "id": 1,
-        "locationId": "temp",
-        "name": "Dora",
+        "id": 2,
+        "locationId": "StudenterhjemmetElgsaeter",
+        "name": "Studenterhjemmet Elgsæter",
         "address": {
-            "street": "충남 당진시 송악읍 송악로 63",
-            "city": "당진",
-            "state": "48",
-            "zip": null,
-            "countryId": 137,
-            "country": "South Korea",
-            "regionId": 102,
-            "region": "Asia Pacific"
+            "street": "ELGESETER GATE 30B",
+            "city": "Trondheim"
         },
         "gps": {
-            "latitude": 63.43890659271715,
-            "longitude": 10.420774797671568
-        }
+            "latitude": 63.418225368430825,
+            "longitude": 10.39636335829644
+        },
+        "images":[
+            2,
+            3
+        ]
     },
     {
-        "id": 7,
-        "locationId": "temp",
-        "name": "Nidaros",
+        "id": 3,
+        "locationId": "Tukthuset",
+        "name": "Tukthuset",
         "address": {
-            "street": "충남 당진시 송악읍 송악로 63",
-            "city": "당진",
-            "state": "48",
-            "zip": null,
-            "countryId": 137,
-            "country": "South Korea",
-            "regionId": 102,
-            "region": "Asia Pacific"
+            "street": "Kongens gate 85",
+            "city": "Trondheim"
         },
         "gps": {
-            "latitude": 63.426754, 
-            "longitude": 10.395188
-        }
+            "latitude": 63.43021844550088, 
+            "longitude": 10.383496079791836
+        },
+        "images" : [
+            0,
+            1
+        ]
     }
 ]
