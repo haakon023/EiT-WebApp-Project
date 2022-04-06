@@ -68,6 +68,11 @@ html{
   height: 100vh;
 }
 
+.information-text{
+  margin: 5%;
+  font-size: large;
+}
+
 .image-content{
   width: 80%;
   margin: auto;

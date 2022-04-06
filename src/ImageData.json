@@ -3,38 +3,44 @@
         "id" : 0,
         "caption" : "tukthuset",
         "image" : "http://localhost:3000/images/tukthuset.jpg",
-        "imageText" : "asdasd",
-        "Imagetitle" : "Tukthuset"
+        "imageText" : "Huset er i dag fredet og i privat eie.",
+        "ImageTitle" : "Tukthuset 2022"
     },
     {
         "id" : 1,
         "caption" : "Gamle tukthuset",
         "image" : "http://localhost:3000/images/tukthusetGammelt.jpg",
-        "imageText" : "asdasd"
+        "imageText" : "Tukthuset (1890-årene og 2022) Tukthuset i Trondheim var det første tukthuset i Norge og ble oppført i årene 1732-1733. I første omgang ble det brukt til å opplære fattige i hardt arbeid og disiplin. Senere har tukthuset blitt brukt som fengsel helt fram til 1971.",
+        "imageTitle" : "Tukthuset 1890"
     },
     {
         "id" : 2,
         "caption" : "Studenter Hjemmet",
         "image" : "http://localhost:3000/images/StudenterHjemmetElgsaeter.jpg",
-        "imageText" : "asdasd"
+        "imageText" : "Bygningen i dag er fredet, men er i dårlig tilstand.",
+        "imageTitle" : "Studenter Hjemmet 2022"
     },
     {
         "id" : 3,
         "caption" : "Studenter Hjemmet",
         "image" : "http://localhost:3000/images/StudenterHjemmetElgsaeterGammelt.jpg",
-        "imageText" : "asdasd"
+        "imageText" : "Studenterhjemmet er et tidligere pensjonat i jugendstil som åpnet i 1911. Pensjonatet var tiltenkt de som studerte ved Norges Tekniske Høyskole som ble opprettet året før. Driften opphørte i 1961 og det har vært mange diskusjoner om rivning opp igjennom årene.",
+        "imageTitle" : "Studenter Hjemmet 1980"
     },
     {
         "id" : 4,
         "caption" : "Gamle Bybro",
         "image" : "http://localhost:3000/images/GamleByBro.jpg",
-        "imageText" : "asdasd"
+        "imageText" : "Fra 2016 har broen vært permanent stengt for biltrafikk. Broen er, hvis man ser bort i fra Nidarosdomen, det mest kjente symbolet på Trondheim.",
+        "imageTitle" : "Gamle bybro 2022"
+
     },
     {
         "id" : 5,
         "caption" : "Gamle Bybro",
         "image" : "http://localhost:3000/images/GamleByBroGammel.jpg",
-        "imageText" : "asdasd"
+        "imageText" : "Gamle Bybro som vi kjenner den i dag sto ferdig i 1861. Broen kjennetegnes av to røde portaler ofte kalt «lykkens portal». I perioden bildet er hentet fra var det biltrafikk over broen.",
+        "imageTitle" : "Gamle bybro 1960"
     },
     {
         "id" : 6,
