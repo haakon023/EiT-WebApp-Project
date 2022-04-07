@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from 'react-router-dom';
 
 class InformationComponent extends React.Component
 {

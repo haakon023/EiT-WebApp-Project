@@ -6,9 +6,7 @@ function App() {
   return (
     <div className="App">
       <HeaderComponent/>
-      <div style={{paddingLeft:"10%"}}>
         <Main />
-      </div>
     </div>
   );
 }

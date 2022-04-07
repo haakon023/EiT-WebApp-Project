@@ -1,5 +1,5 @@
 import React, { userEffect, useRef } from "react";
-import { MapContainer, useMap, Marker, TileLayer } from 'react-leaflet';
+import { MapContainer, useMap, ZoomControl, TileLayer } from 'react-leaflet';
 import L from 'leaflet';
 import data from "../LocationData.json";
 import { useNavigate } from "react-router-dom";
@@ -17,12 +17,13 @@ class MapComponent extends React.Component
     render()
     {
         return ( <div className="Body">
-            <MapContainer center={position} zoom={13} scrollWheelZoom={false}>
+            <MapContainer center={position} zoom={13} scrollWheelZoom={false} zoomControl={false}>
                 <TileLayer
                 attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
                 url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
                 />
                <GetMarkerData></GetMarkerData>
+               <ZoomControl position="bottomright" />
             </MapContainer>
         </div>);
     }
