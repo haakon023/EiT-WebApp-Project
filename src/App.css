@@ -1,15 +1,22 @@
-.NavbarList{
-  list-style-type: none;
+.Header{
   margin: 0;
   padding: 0;
-  width: 10%;
   background-color: #282c34;
   height: 100%;
   overflow: auto;
   position: fixed;
+  z-index: 1000;
+
+  min-width: 150px;
+
+  left: -150px;
+
+  -webkit-transform: translateX(-20);
+  transform: translateX(-20);
+  transition: transform 500ms ease-in-out;
 }
 
-.NavbarList a:first-child{
+.Header a:first-child{
   margin-top: 10%;
 }
 
@@ -26,7 +33,24 @@ head{
   margin:0;
 }
 
+
+.Header button {
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 10;
+  cursor: pointer;
+}
+
+.Header.slide-in {
+  -webkit-transform: translateX(100%);
+  transform: translateX(100%);
+}
+
+
 .NavbarList a{
+  z-index: 9;
+  list-style-type: none;
   display: block;
   text-decoration: none;
   pad: 8px, 16px;
@@ -34,15 +58,18 @@ head{
   text-align: center;
 }
 .NavbarList a:hover{
-  background-color: #282c10;
+  text-decoration:underline;
+}
+
+.NavbarList a:active{
+  text-decoration:none;
 }
 
 .Body{
   width: 100%;
-  /* margin-left: 10%; */
   height: 100%;
+  z-index: 900;
   margin-top: 0;
-  
 }
 .Header{
   margin: 0;
@@ -74,6 +101,4 @@ html{
 }
 
 .image-content{
-  width: 80%;
-  margin: auto;
 }
